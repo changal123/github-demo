@@ -1,1 +1,2 @@
 This is a restart of multiple times practicing with Git Bash
+this is a second test
